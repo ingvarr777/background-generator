@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "script.js",
+  "scripts": {
+    "test": "git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvarr777/background-generator.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvarr777/background-generator/issues"
+  },
+  "homepage": "https://github.com/ingvarr777/background-generator#readme"
+}
