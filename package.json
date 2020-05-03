@@ -4,7 +4,8 @@
   "description": "Test",
   "main": "script.js",
   "scripts": {
-    "test": "git"
+   
+    "build": "browserify script.js > bundle.js && live-server"
   },
   "repository": {
     "type": "git",
